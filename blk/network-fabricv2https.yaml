@@ -472,7 +472,7 @@ network:
         username: "ronaldodia"          # Git Service user who has rights to check-in in all branches
         password: "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"          # Git Server user password/token (Optional for ssh; Required for https)
         email: "univnktt@email.com"                # Email to use in git config
-        private_key: "/home/pullo/testfork/bevel/gitops"          # Path to private key file which has write-access to the git repo (Optional for https; Required for ssh)
+        #private_key: "/home/pullo/testfork/bevel/gitops"          # Path to private key file which has write-access to the git repo (Optional for https; Required for ssh)
       # Generating User Certificates with custom attributes using Fabric CA in Bevel for Peer Organizations
       users:
       - user:
