@@ -193,7 +193,7 @@ network:
         chart_source: "platforms/hyperledger-fabric/charts"     # Relative Path where the Helm charts are stored in Git repo
         git_repo: "github.com/diaAbdoul/bevel.git"   # Gitops git repository URL for git push  (without https://)
         username: "ronaldodia"          # Git Service user who has rights to check-in in all branches
-        password: "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"          # Git Server user password/token (Optional for ssh; Required for https)
+        password: "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"          # Git Server user password/token (Optional for ssh; Required for https)
         email: "univnktt@email.com"                # Email to use in git config
         private_key: "path_to_private_key"          # Path to private key file which has write-access to the git repo (Optional for https; Required for ssh)
 
@@ -279,7 +279,7 @@ network:
         chart_source: "platforms/hyperledger-fabric/charts"     # Relative Path where the Helm charts are stored in Git repo
         git_repo: "github.com/diaAbdoul/bevel.git"   # Gitops git repository URL for git push  (without https://)
         username: "ronaldodia"          # Git Service user who has rights to check-in in all branches
-        password: "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"          # Git Server user password/token (Optional for ssh; Required for https)
+        password: "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"          # Git Server user password/token (Optional for ssh; Required for https)
         email: "univnktt@email.com"                # Email to use in git config
         private_key: "path_to_private_key"          # Path to private key file which has write-access to the git repo (Optional for https; Required for ssh)
       # Generating User Certificates with custom attributes using Fabric CA in Bevel for Peer Organizations
@@ -326,7 +326,7 @@ network:
               lang: "golang"  # The language in which the chaincode is written ( golang/java/node )
               repository:
                 username: "ronaldodia"          # Git Service user who has rights to check-in in all branches
-                password: "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"
+                password: "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"
                 url: "github.com/diaAbdoul/bevel-samples.git"
                 branch: main
                 path: "chaincode_src"   #The path to the chaincode 
@@ -376,7 +376,7 @@ network:
         chart_source: "platforms/hyperledger-fabric/charts"     # Relative Path where the Helm charts are stored in Git repo
         git_repo: "github.com/diaAbdoul/bevel.git"   # Gitops git repository URL for git push  (without https://)
         username: "ronaldodia"          # Git Service user who has rights to check-in in all branches
-        password: "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"          # Git Server user password/token (Optional for ssh; Required for https)
+        password: "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"          # Git Server user password/token (Optional for ssh; Required for https)
         email: "univnktt@email.com"                # Email to use in git config
         private_key: "path_to_private_key"          # Path to private key file which has write-access to the git repo (Optional for https; Required for ssh)
       # Generating User Certificates with custom attributes using Fabric CA in Bevel for Peer Organizations
@@ -421,7 +421,7 @@ network:
               lang: "golang"  # The language in which the chaincode is written ( golang/java/node )
               repository:
                 username: "ronaldodia"          # Git Service user who has rights to check-in in all branches
-                password: "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"
+                password: "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"
                 url: "github.com/diaAbdoul/bevel-samples.git"
                 branch: main 
                 path: "chaincode_src"    #The path to the chaincode 
@@ -470,7 +470,7 @@ network:
         chart_source: "platforms/hyperledger-fabric/charts"     # Relative Path where the Helm charts are stored in Git repo
         git_repo: "github.com/diaAbdoul/bevel.git"   # Gitops git repository URL for git push  (without https://)
         username: "ronaldodia"          # Git Service user who has rights to check-in in all branches
-        password: "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"          # Git Server user password/token (Optional for ssh; Required for https)
+        password: "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"          # Git Server user password/token (Optional for ssh; Required for https)
         email: "univnktt@email.com"                # Email to use in git config
         private_key: "path_to_private_key"          # Path to private key file which has write-access to the git repo (Optional for https; Required for ssh)
       # Generating User Certificates with custom attributes using Fabric CA in Bevel for Peer Organizations
@@ -515,7 +515,7 @@ network:
               lang: "golang"  # The language in which the chaincode is written ( golang/java/node )
               repository:
                 username: "ronaldodia"          # Git Service user who has rights to check-in in all branches
-                password: "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"
+                password: "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"
                 url: "github.com/diaAbdoul/bevel-samples.git"
                 branch: main
                 path: "chaincode_src"   #The path to the chaincode 
@@ -565,7 +565,7 @@ network:
         chart_source: "platforms/hyperledger-fabric/charts"     # Relative Path where the Helm charts are stored in Git repo
         git_repo: "github.com/diaAbdoul/bevel.git"   # Gitops git repository URL for git push  (without https://)
         username: "ronaldodia"          # Git Service user who has rights to check-in in all branches
-        password: "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"          # Git Server user password/token (Optional for ssh; Required for https)
+        password: "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"          # Git Server user password/token (Optional for ssh; Required for https)
         email: "univnktt@email.com"                # Email to use in git config
         private_key: "path_to_private_key"          # Path to private key file which has write-access to the git repo (Optional for https; Required for ssh)
       # Generating User Certificates with custom attributes using Fabric CA in Bevel for Peer Organizations
@@ -610,7 +610,7 @@ network:
               lang: "golang"  # The language in which the chaincode is written ( golang/java/node )
               repository:
                 username: "ronaldodia"          # Git Service user who has rights to check-in in all branches
-                password: "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"
+                password: "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"
                 url: "github.com/<username>/bevel-sample.git"
                 branch: develop
                 path: "chaincode_src"   #The path to the chaincode 
