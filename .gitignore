@@ -38,4 +38,5 @@
 **/.vscode/
 # custom config templates
 *_custom.tpl
-.gitops
+gitops
+gitops.pub
